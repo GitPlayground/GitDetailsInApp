@@ -1,4 +1,4 @@
 # OSM Playground
 
 
-![Alt text](relative/path/to/screen.jpg?raw=true "Screenshot")
+![Alt text](https://github.com/GitPlayground/osmplay/blob/master/screen.jpg "Screenshot")
